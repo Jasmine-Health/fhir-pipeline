@@ -1,0 +1,10 @@
+# FHIR Pipeline Dependencies
+fhirclient>=4.1.0
+fhir.resources>=6.5.0
+requests>=2.31.0
+neo4j>=5.14.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+click>=8.1.0
+faker>=22.0.0
