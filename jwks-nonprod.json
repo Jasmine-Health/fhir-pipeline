@@ -7,6 +7,17 @@
       "alg": "RS384",
       "n": "vXXZ4cYcl548qleqDPNbW0oOsPKQOlIwwffRm6oFFrsPKDDSeQXsihBFjTmCT62zG-KFnq1Eb7ghINyG8v1VPRYgOTrijR7fm9YhHXBAqHoYSlDBtPB_o5cimRKwTrESuZrPYh-ccjJCwP2e_I8fm59nHk4Fh95LbSe0ztm1QBznkWcHqymc3NZz79FORppXW7Jm6MC-ZWjr3ZgjaDC2JY8fuszbnY5sap9VYjDCecpahr4_FqNkNOwwSIdHReKduipe9_wJp7NZnto_m6TCDqs7pdUf7ykUZzop2s6FHmrxnoLrZnJFpNwLmuQVnMuHZIgUcGOAHYGnT5e8F5mVbw",
       "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "cairiq-epic-1",
+      "key_ops": [
+        "verify"
+      ],
+      "n": "xFXx_T3kEYeqVIaa3uoDFEEBCTtL_UOqnxqJxxCTuq0nbeZ0Hn_LyOH5cbiHwxo4dt-M0MvNf2D-mc3U9ZyYYos4tSDDp24ykgA_BS-Eu8jIimiwuA6yr5N7Y2HFGN7o5Tomq6WUK8mqixo5btifXn8CSvHYHqTrcSdFGBUVTFEocE-8j6EtC55293ii0mSLd9LdZ9vURvDfEfQEz-hL0py6GdGzHBY4oM-sRD30NBP-f3HUCeRaOTbrSQLvpFlWt36qlUpdZkNqSlil82odd0ZgX1yxbHBUwiL34MMamEopPRDTdl60xBzA7bN-y09-dO-czZ9XG-cq1ve-6h4GWWl5mxvXNhOcAF79eyOJaWnCKRbMJeyNUO0sT5T57dC7DauP3uxlx4teOijzdbvtlj62CVVz9JRTxKo6r0ymnqQhGg8AYzi5-TuJdNr8cQ5pr3s4G0SshRPNKvq_L5nt-ThT5wNeh4rhirO8i-d2sOiHeL0pO91Xc7n8uUt2Usdsn7A1EKB0aXFx8Y1ax1sZnC1ytyjCrc_siswVIACurgb5Ftu4AAbYKAojFaPmz6lBKAF3kN9SAfL5_pE1MZkoHDo0ey40P2kAoP9L7oUja1UGYXcdgIPYZLac59JCOj69Iajbx8h3LNaV5Grft1Y3XcBBFGMtGF_IqAeCZTyCalE",
+      "e": "AQAB"
     }
   ]
 }
